@@ -1,0 +1,1 @@
+# RNG-machine-luck-multiplier
